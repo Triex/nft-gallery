@@ -23,11 +23,11 @@
                     v-if="!isLoading && imageVisible && !meta.animation_url"
                     :src="meta.image || '/placeholder.svg'"
                     src-fallback="/placeholder.svg'"
-                    alt="KodaDot NFT minted multimedia"
+                    alt="ForkDot NFT minted multimedia"
                     ratio="1by1"
                     @error="onImageError"
                   ></b-image>
-                  <img class="fullscreen-image" :src="meta.image || '/placeholder.svg'" alt="KodaDot NFT minted multimedia">
+                  <img class="fullscreen-image" :src="meta.image || '/placeholder.svg'" alt="ForkDot NFT minted multimedia">
                   <b-skeleton height="524px" size="is-large" :active="isLoading"></b-skeleton>
                   <MediaResolver v-if="meta.animation_url" :class="{ withPicture: imageVisible }" :src="meta.animation_url" :mimeType="mimeType" />
                 </div>

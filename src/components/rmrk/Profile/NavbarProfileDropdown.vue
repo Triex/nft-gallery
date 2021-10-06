@@ -34,7 +34,7 @@
       <b-dropdown-item has-link aria-role="menuitem">
         <a href="https://twitter.com/kodadot" target="_blank" rel="noopener noreferrer" class="is-flex is-align-items-center pl-3">
           <b-icon pack="fab" icon="twitter" class="mr-1"> </b-icon>
-          <strong>KodaDot</strong>
+          <strong>ForkDot</strong>
         </a>
       </b-dropdown-item>
       <b-dropdown-item has-link aria-role="menuitem">

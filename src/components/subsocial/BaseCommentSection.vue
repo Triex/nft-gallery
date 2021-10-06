@@ -69,7 +69,7 @@ export default class BaseCommentSection extends Vue {
     console.log('balance', balance.freeBalance?.toHuman())
   }
 
-  protected async searchForPost(name = 'Something is in KodaDot kitchen') {
+  protected async searchForPost(name = 'Something is in ForkDot kitchen') {
     const cache = await get(name, subSocialStore)
 
     if (cache) {

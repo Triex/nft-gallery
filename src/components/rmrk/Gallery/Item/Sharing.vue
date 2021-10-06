@@ -30,7 +30,7 @@
               network="twitter"
               :url="realworldFullPath"
               :title="label"
-              twitter-user="KodaDot"
+              twitter-user="ForkDot"
             >
               <b-icon
                 size="is-large"
@@ -174,7 +174,7 @@ import { IFrame, emptyIframe } from '../../types'
 
 @Component({})
 export default class Sharing extends Vue {
-  @Prop({ default: 'Check this cool NFT on #KusamaNetwork #KodaDot' }) label!: string;
+  @Prop({ default: 'Check this cool NFT on #KusamaNetwork #ForkDot' }) label!: string;
   @Prop({ default: () => emptyIframe }) iframe!: IFrame;
   @Prop(Boolean) onlyCopyLink!: boolean;
 
@@ -197,7 +197,7 @@ export default class Sharing extends Vue {
   }
 
   get twitterUri() {
-    return `https://twitter.com/intent/tweet?text=${this.helloText}&via=KodaDot&url=${this.realworldFullPath}`
+    return `https://twitter.com/intent/tweet?text=${this.helloText}&via=ForkDot&url=${this.realworldFullPath}`
   }
 
   // get linemeUri() {
@@ -234,7 +234,7 @@ export default class Sharing extends Vue {
     this.openFallbackShareTooltip()
     if (navigator.share) {
       const shareData = {
-        title: 'KodaDot',
+        title: 'ForkDot',
         text: this.label,
         url: this.realworldFullPath,
       }

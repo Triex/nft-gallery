@@ -73,11 +73,11 @@ const components = {
 @Component<CollectionItem>({
   metaInfo() {
     return {
-      title: 'KodaDot cares about environmental impact',
+      title: 'ForkDot cares about environmental impact',
       titleTemplate: '%s | Low Carbon NFTs',
       meta: [
         { name: 'description', content: 'Creating Carbonless NFTs on Kusama' },
-        { property: 'og:title', content: this.collection.name || 'KodaDot cares about environmental impact'},
+        { property: 'og:title', content: this.collection.name || 'ForkDot cares about environmental impact'},
         { property: 'og:url', content: 'https://nft.kodadot.xyz/' + this.$route.path },
         { property: 'og:image', content: this.meta.image || 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
         { property: 'og:description', content: this.meta.description || 'Creating Carbonless NFTs on Kusama'},

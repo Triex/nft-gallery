@@ -255,7 +255,7 @@ export default class Transfer extends Mixins(
 
   protected shareInTweet() {
     const text = 'I have just helped a really cool creator by donating. Check my donation proof:'
-    const url = `https://twitter.com/intent/tweet?text=${text}&via=KodaDot&url=${this.getUrl()}`
+    const url = `https://twitter.com/intent/tweet?text=${text}&via=ForkDot&url=${this.getUrl()}`
     window.open(url, '_blank')
   }
 

@@ -111,7 +111,7 @@ export default class CreatePost extends Mixins(TransactionMixin, AuthMixin) {
 
   // Subsocial does not show source so far
   protected forceHackNftUrl() {
-    return `${this.meta.description}\n\n[View this NFT on KodaDot](${this.url}${this.nft.id})`
+    return `${this.meta.description}\n\n[View this NFT on ForkDot](${this.url}${this.nft.id})`
   }
 }
 </script>
