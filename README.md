@@ -1,4 +1,4 @@
-# NFT Explorer for Kusama & Polkadot ecosystem
+# $FORK ForkDot - KodaDot based NFT Explorer for Kusama & Polkadot ecosystem
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 [![DeepScan grade](https://deepscan.io/api/teams/13903/projects/16948/branches/372223/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13903&pid=16948&bid=372223)
@@ -6,12 +6,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 🧫 Culture - where you can read our recent updates
-* [Discord](https://discord.gg/u6ymnbz4PR)
+* [Discord](https://discord.gg/)
 * [Telegram](https://t.me/kodadot)
 * [Twitter](https://twitter.com/ForkDot)
 * [r/ForkDot](https://www.reddit.com/r/ForkDot/)
 
-## 📚 Writings by ForkDot team members
+## 📚 Writings by the KodaDot team
 * [Client-first NFT gallery: Technical examination](https://medium.com/kodadot/client-first-nft-gallery-technical-examination-33db09dfdc97)
 * [How to Embed your NFT on Kusama through ForkDot](https://medium.com/kodadot/how-to-embed-your-nft-on-kusama-through-kodadot-ee52c2384b0d)
 * [Traverse to the prime show](https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5)
@@ -27,7 +27,7 @@
 
 [Contribution is welcome!](CONTRIBUTING.md)
 
-We are using `yarn` workspace, as installing things via npm **will result in broken dependencies.**
+We are using `yarn` for scripts, installing things via npm **will result in broken dependencies.**
 
 ## Contributors ✨
 
@@ -40,10 +40,6 @@ Thanks goes to the wonderful people at Kusama ([emoji key](https://allcontributo
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-  <img src="https://contrib.rocks/image?repo=kodadot/nft-gallery" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
 
 ## 🕹 Play
 
