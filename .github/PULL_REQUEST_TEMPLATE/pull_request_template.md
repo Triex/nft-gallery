@@ -1,4 +1,4 @@
-Thank you for your contribution to the KodaDot NFT gallery, 
+Thank you for your contribution to the ForkDot NFT gallery, 
 we really appreciate your contribution!
 
 ### PR type

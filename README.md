@@ -8,12 +8,12 @@
 ## 🧫 Culture - where you can read our recent updates
 * [Discord](https://discord.gg/u6ymnbz4PR)
 * [Telegram](https://t.me/kodadot)
-* [Twitter](https://twitter.com/KodaDot)
-* [r/KodaDot](https://www.reddit.com/r/KodaDot/)
+* [Twitter](https://twitter.com/ForkDot)
+* [r/ForkDot](https://www.reddit.com/r/ForkDot/)
 
-## 📚 Writings by KodaDot team members
+## 📚 Writings by ForkDot team members
 * [Client-first NFT gallery: Technical examination](https://medium.com/kodadot/client-first-nft-gallery-technical-examination-33db09dfdc97)
-* [How to Embed your NFT on Kusama through KodaDot](https://medium.com/kodadot/how-to-embed-your-nft-on-kusama-through-kodadot-ee52c2384b0d)
+* [How to Embed your NFT on Kusama through ForkDot](https://medium.com/kodadot/how-to-embed-your-nft-on-kusama-through-kodadot-ee52c2384b0d)
 * [Traverse to the prime show](https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5)
 * [The First Multilingual NFT Gallery in Polkadot ecosystem running live on Kusama](https://medium.com/kodadot/the-first-multilingual-nft-gallery-in-polkadot-ecosystem-running-live-on-kusama-b8f7566770be)
 * [Read our story, how we started.](https://medium.com/kodadot/kodadot-nft-explorer-f2c3a326a856)
@@ -31,47 +31,10 @@ We are using `yarn` workspace, as installing things via npm **will result in bro
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to the wonderful people at Kusama ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<a href="https://github.com/kodadot/nft-gallery/graphs/contributors">
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://twitter.com/yangwao"><img src="https://avatars.githubusercontent.com/u/5887929?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matej Nemček</b></sub></a><br /><a href="https://github.com/kodadot/nft-gallery/commits?author=yangwao" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/vikiival"><img src="https://avatars.githubusercontent.com/u/22471030?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Viki Val</b></sub></a><br /><a href="#research-vikiival" title="Research">🔬</a></td>
-    <td align="center"><a href="https://github.com/JKrupinski"><img src="https://avatars.githubusercontent.com/u/15692855?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jarek Krupiński</b></sub></a><br /><a href="https://github.com/kodadot/nft-gallery/commits?author=JKrupinski" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/coreman000"><img src="https://avatars.githubusercontent.com/u/14929454?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mikhail Krasnoselskii</b></sub></a><br /><a href="#translation-coreman000" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/jimmy-tudeski"><img src="https://avatars.githubusercontent.com/u/68714636?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jimmy-tudeski</b></sub></a><br /><a href="#translation-jimmy-tudeski" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/harrymoneyy"><img src="https://avatars.githubusercontent.com/u/79300644?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harry</b></sub></a><br /><a href="#translation-harrymoneyy" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Curu24"><img src="https://avatars.githubusercontent.com/u/66644637?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jiri Rozinek</b></sub></a><br /><a href="#translation-Curu24" title="Translation">🌍</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Summer2040"><img src="https://avatars.githubusercontent.com/u/79899319?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Summer2040</b></sub></a><br /><a href="#translation-Summer2040" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/achrafchi"><img src="https://avatars.githubusercontent.com/u/79375373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>achrafchi</b></sub></a><br /><a href="#translation-achrafchi" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/lunacek"><img src="https://avatars.githubusercontent.com/u/25346031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lunacek</b></sub></a><br /><a href="#translation-lunacek" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/razi429"><img src="https://avatars.githubusercontent.com/u/4163503?v=4?s=100" width="100px;" alt=""/><br /><sub><b>razi429</b></sub></a><br /><a href="#translation-razi429" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://snyk.io/"><img src="https://avatars.githubusercontent.com/u/19733683?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Snyk bot</b></sub></a><br /><a href="#security-snyk-bot" title="Security">🛡️</a></td>
-    <td align="center"><a href="https://github.com/joaopscastro"><img src="https://avatars.githubusercontent.com/u/79213332?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joaopscastro</b></sub></a><br /><a href="#translation-joaopscastro" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/anindyabaidya"><img src="https://avatars.githubusercontent.com/u/62795016?v=4?s=100" width="100px;" alt=""/><br /><sub><b>anindyabaidya</b></sub></a><br /><a href="#translation-anindyabaidya" title="Translation">🌍</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://iamonuwa.dev/"><img src="https://avatars.githubusercontent.com/u/6551094?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Onuwa Nnachi Isaac</b></sub></a><br /><a href="https://github.com/kodadot/nft-gallery/commits?author=iamonuwa" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ferhatsirin77"><img src="https://avatars.githubusercontent.com/u/71610432?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ferhat Sirin</b></sub></a><br /><a href="#translation-ferhatsirin77" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/hernanvqt"><img src="https://avatars.githubusercontent.com/u/61509987?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hernanvqt</b></sub></a><br /><a href="#translation-hernanvqt" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/unknow112"><img src="https://avatars.githubusercontent.com/u/20564765?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Martin Tonhauzer</b></sub></a><br /><a href="#translation-unknow112" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/katongo11"><img src="https://avatars.githubusercontent.com/u/70867725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>katongo11</b></sub></a><br /><a href="#translation-katongo11" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/kzyxyz"><img src="https://avatars.githubusercontent.com/u/42226966?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kzyxyz</b></sub></a><br /><a href="#translation-kzyxyz" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/yacare555"><img src="https://avatars.githubusercontent.com/u/67239493?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yacare555</b></sub></a><br /><a href="https://github.com/kodadot/nft-gallery/commits?author=yacare555" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Ryan-Gordon"><img src="https://avatars.githubusercontent.com/u/11082710?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ryan Gordon</b></sub></a><br /><a href="https://github.com/kodadot/nft-gallery/commits?author=Ryan-Gordon" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/avcdsld"><img src="https://avatars.githubusercontent.com/u/10495516?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Takamasa Arakawa</b></sub></a><br /><a href="https://github.com/kodadot/nft-gallery/commits?author=avcdsld" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/apps/dependabot"><img src="https://avatars.githubusercontent.com/in/29110?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dependabot[bot]</b></sub></a><br /><a href="#security-dependabot[bot]" title="Security">🛡️</a></td>
-    <td align="center"><a href="https://github.com/apps/allcontributors"><img src="https://avatars.githubusercontent.com/in/23186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>allcontributors[bot]</b></sub></a><br /><a href="#talk-allcontributors[bot]" title="Talks">📢</a></td>
-  </tr>
-</table>
+[Forked from KodaDot](https://github.com/kodadot/nft-gallery/graphs/contributors)
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
@@ -100,18 +63,18 @@ If you feel awesome and want to support us in a small way, please consider starr
 
 
 ## 🐳 Docker
-If you just want to try out our KodaDot on Kusama and have a full local setup with a local node, we assume you have [docker](https://docs.docker.com/get-docker/) and docker-compose installed. We have are building [images from develop and master branch](https://hub.docker.com/r/yangwao/kodadot/tags?page=1&ordering=last_updated)
+If you just want to try out our ForkDot on Kusama and have a full local setup with a local node, we assume you have [docker](https://docs.docker.com/get-docker/) and docker-compose installed. We have are building [images from develop and master branch](https://hub.docker.com/r/yangwao/kodadot/tags?page=1&ordering=last_updated)
 
 ```
 docker-compose pull && docker-compose up
 ```
 
-If you want to run just KodaDot
+If you want to run just ForkDot
 ```
 docker-compose up kodadot
 ```
 
-Build docker image of KodaDot
+Build docker image of ForkDot
 ```
 docker build -t hello/kodadot .
 ```

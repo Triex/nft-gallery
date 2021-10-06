@@ -1,4 +1,4 @@
-**Thank you for your contribution** to the KodaDot NFT gallery.
+**Thank you for your contribution** to the ForkDot NFT gallery.
 Let's do a quick check before the merge.
 Your contribution will be an eternal part of the community codebase.
 
@@ -24,7 +24,7 @@ Your contribution will be an eternal part of the community codebase.
 - Fill up your KSM address: https://kodadot.xyz/transfer/?target=<Kusama_Address> 
 
 ### Community participation
-- [ ] Are you at KodaDot Discord? If not yet, [let's join us - https://discord.gg/35hzy2dXXh](https://discord.gg/35hzy2dXXh)
+- [ ] Are you at ForkDot Discord? If not yet, [let's join us - https://discord.gg/35hzy2dXXh](https://discord.gg/35hzy2dXXh)
 
 ### Screenshot
 - [ ] Whenever my fix has changed **something** on UI, a screenshot for others, is more than welcome

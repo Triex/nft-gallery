@@ -1,11 +1,11 @@
 
 # Security Policy
 
-KodaDot is committed to resolving security vulnerabilities in our software quickly and carefully. We take the necessary steps to minimize risk, provide timely information, and deliver vulnerability fixes and mitigations required to address security issues.
+ForkDot is committed to resolving security vulnerabilities in our software quickly and carefully. We take the necessary steps to minimize risk, provide timely information, and deliver vulnerability fixes and mitigations required to address security issues.
 
 ## Reporting a Vulnerability
 
-Security vulnerabilities in KodaDot software should be reported by email to yangwao@kodadot.xyz or Twitter DM [@KodaDot](https://twitter.com/@KodaDot) 
+Security vulnerabilities in ForkDot software should be reported by email to yangwao@kodadot.xyz or Twitter DM [@ForkDot](https://twitter.com/@ForkDot) 
 
 Your report should include the following:
 
