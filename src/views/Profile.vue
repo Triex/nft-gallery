@@ -141,7 +141,7 @@ const eq = (tab: string) => (el: string) => tab === el
         {
           property: 'og:title',
           vmid: 'og:title',
-          content: 'NFT Artist Profile on KodaDot'
+          content: 'NFT Artist Profile on ForkDot'
         },
         {
           property: 'og:description',
@@ -157,12 +157,12 @@ const eq = (tab: string) => (el: string) => tab === el
             (this.firstNFTData.image as string) ||
             (this.defaultNFTImage as string)
         },
-        { property: 'twitter:site', content: '@KodaDot' },
+        { property: 'twitter:site', content: '@ForkDot' },
         { property: 'twitter:card', content: 'summary_large_image' },
         {
           property: 'twitter:title',
           vmid: 'twitter:title',
-          content: 'NFT Artist Profile on KodaDot'
+          content: 'NFT Artist Profile on ForkDot'
         },
         {
           property: 'twitter:description',

@@ -34,5 +34,5 @@ We've [made video how to translate from the browser](https://t.me/kodadot_transl
 ![](assets/edit_and_commit.png)
 
 We welcome your contribution.
-You will be historical part of KodaDot NFT contribution!
+You will be historical part of ForkDot NFT contribution!
 First translations will be rewarded with NFT with value in it.

@@ -4,7 +4,7 @@ import {
 } from '@polkadot/extension-dapp'
 
 
-export const enableExtension = () => web3Enable('KodaDot')
+export const enableExtension = () => web3Enable('ForkDot')
 
 export const getAddress = async (address: string) => {
   try {

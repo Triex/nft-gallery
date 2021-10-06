@@ -113,7 +113,7 @@
         "l3": "[tìm kiếm giao dịch đơn giản, hãy thử SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "First of all, you need to install @.md:faq.a.2.l1, <b>backup your seed</b>. Sau đó, bạn nạp tiền vào địa chỉ ví của mình thông qua @.md:faq.a.1.l2 chức năng. Khi bạn có tiền, hãy đến @.md:faq.a.3.l1, tạo Bộ sưu tập. Chờ cho đến khi Bộ sưu tập được đúc xong, sau đó bạn đi tới @.md:faq.a.7.l1 và Đúc mã thông báo đầu tiên của bạn! Nếu bạn gặp sự cố , chúng tôi sẽ làm việc trên UX-flow của chúng tôi. KodaDot có mã khoảng tháng tuổi và vẫn còn chỗ để cải thiện, thông cảm cho chúng tôi, team của chúng tôi chỉ có 2 người. Happy Minting 😌",
+        "m": "First of all, you need to install @.md:faq.a.2.l1, <b>backup your seed</b>. Sau đó, bạn nạp tiền vào địa chỉ ví của mình thông qua @.md:faq.a.1.l2 chức năng. Khi bạn có tiền, hãy đến @.md:faq.a.3.l1, tạo Bộ sưu tập. Chờ cho đến khi Bộ sưu tập được đúc xong, sau đó bạn đi tới @.md:faq.a.7.l1 và Đúc mã thông báo đầu tiên của bạn! Nếu bạn gặp sự cố , chúng tôi sẽ làm việc trên UX-flow của chúng tôi. ForkDot có mã khoảng tháng tuổi và vẫn còn chỗ để cải thiện, thông cảm cho chúng tôi, team của chúng tôi chỉ có 2 người. Happy Minting 😌",
         "l1": "[Create Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "Hiện tại, chúng tôi không có logic chuỗi, nhưng chúng tôi có kế hoạch triển khai điều gì đó tuyệt vời trong thời gian sớm nhất. @.md:faq.a.14.l1",
-        "l1": "[Ở lại với chúng tôi và theo dõi chúng tôi @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Ở lại với chúng tôi và theo dõi chúng tôi @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "Chúng tôi đang triển khai chế độ xem bộ sưu tập, các nhóm chế độ xem bộ sưu tập. @.md:faq.a.14.l1"

@@ -113,7 +113,7 @@
         "l3": "[想使用快捷交易, 可使用SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "首先，您需要安装 @.md:faq.a.2.l1, <b>backup your seed</b>. 然后您可为您的地址充值，通过我们的 @.md:faq.a.1.l2 功能. 当您拥有了资金，请前往 @.md:faq.a.3.l1, create Collection. Wait till Collection is minted, then you go to @.md:faq.a.7.l1 铸造您的首枚代币! If you had issues, we are working on our UX-flow. KodaDot has around month old code and there is still room to improve, bear with us, we are just team of two. Happy Minting 😌",
+        "m": "首先，您需要安装 @.md:faq.a.2.l1, <b>backup your seed</b>. 然后您可为您的地址充值，通过我们的 @.md:faq.a.1.l2 功能. 当您拥有了资金，请前往 @.md:faq.a.3.l1, create Collection. Wait till Collection is minted, then you go to @.md:faq.a.7.l1 铸造您的首枚代币! If you had issues, we are working on our UX-flow. ForkDot has around month old code and there is still room to improve, bear with us, we are just team of two. Happy Minting 😌",
         "l1": "[Create Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "当下，我们没有chain logic, 但我们计划很快推出更好的方案。@.md:faq.a.14.l1",
-        "l1": "[请继续关注我们 @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[请继续关注我们 @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "我们即将部署收藏品展示及系列作品展示界面。@.md:faq.a.14.l1"

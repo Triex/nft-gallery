@@ -113,7 +113,7 @@
         "l3": "[looking for simple trade, try SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "First of all, you need to install @.md:faq.a.2.l1, <b>backup your seed</b>. Then you top up your wallet address through our @.md:faq.a.1.l2 feature. Once you have funds, head to @.md:faq.a.3.l1, create Collection. Wait till Collection is minted, then you go to @.md:faq.a.7.l1 and Mint your very first token! If you had issues, we are working on our UX-flow. KodaDot has around month old code and there is still room to improve, bear with us, we are just team of two. Happy Minting 😌",
+        "m": "First of all, you need to install @.md:faq.a.2.l1, <b>backup your seed</b>. Then you top up your wallet address through our @.md:faq.a.1.l2 feature. Once you have funds, head to @.md:faq.a.3.l1, create Collection. Wait till Collection is minted, then you go to @.md:faq.a.7.l1 and Mint your very first token! If you had issues, we are working on our UX-flow. ForkDot has around month old code and there is still room to improve, bear with us, we are just team of two. Happy Minting 😌",
         "l1": "[Create Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "Right now, we don't have chain logic, but we plan to implement something great, soon. @.md:faq.a.14.l1",
-        "l1": "[Stay with us and follow us @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Stay with us and follow us @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "We are implementing collection view, sets of collection view. @.md:faq.a.14.l1"
@@ -188,8 +188,8 @@
   "FAQA11": "سب سے بہتر طریقہ ذیلی اسکین ایکسپلورر کے ذریعے چیک کرنے اور آپ کے ایڈریس کو تلاش کرنے کے لئے ہے.آپ مثال تلاش کرسکتے ہیں کہ کس طرح ہاتھوں NFT ایکسپلورر کے ذریعہ نظر آتا ہے ، جب آپ صوری پر نظر آتے ہیں.",
   "FAQA12": "ابھی ہم اس بات سے آگاہ ہیں کہ امریکہ کی حمایت نہیں ہے ، دوسرے تمام ممالک کو کام کرنے کی مکمل فہرست میں مدد کرنی چاہیے ۔یہ ابھی ہمارے کنٹرول سے باہر ہے.",
   "FAQA13": "ابھی ، آپ کو اعمال میں فہرست کا استعمال کریں گے",
-  "FAQA14": "ابھی ، ہمارے پاس چین کی منطق نہیں ہے ، لیکن ہم جلد ہی کچھ اچھا لاگو کرنے کا ارادہ رکھتے ہیں.ہمارے ساتھ رہو اور ہمیں @KodaDot پر عمل کریں",
-  "FAQA15": "ہم مجموعہ منظر، مجموعہ منظر کے سیٹ پر عمل درآمد کر رہے ہیں۔ ہمارے ساتھ رہو اور ہمارے پیچھے @KodaDot",
+  "FAQA14": "ابھی ، ہمارے پاس چین کی منطق نہیں ہے ، لیکن ہم جلد ہی کچھ اچھا لاگو کرنے کا ارادہ رکھتے ہیں.ہمارے ساتھ رہو اور ہمیں @ForkDot پر عمل کریں",
+  "FAQA15": "ہم مجموعہ منظر، مجموعہ منظر کے سیٹ پر عمل درآمد کر رہے ہیں۔ ہمارے ساتھ رہو اور ہمارے پیچھے @ForkDot",
   "FAQA16": "NFT ٹوکن کے تحت یہ دل ہے. ہم رمرک معیار جو تعریفوں کی طرح کام کرتا ہے میں ایموٹی کے اصل مصنفین ہیں.یہ فنکشن آپ کے کام کے لئے قیمت کی تلاش ہے.",
   "FAQA17": "ابھی, ہم نے سنگ میل کے لئے کوساما خزانہ فنڈنگ ہے 1. ہم فعال طور پر فنڈنگ کے اختیارات کے لئے تلاش کر رہے ہیں, بالآخر ہم نجی فنڈز بلند کریں گے.ہمیں پیغام ، اگر آپ نجی فروخت میں دلچسپی رکھتے ہیں.",
   "FAQA18": "ہمارے پاس صرف NFT تخلیق کاروں کے لئے نجی چینل ہے ، اگر آپ NFT خالق ہیں تو ہمیں پیغام",

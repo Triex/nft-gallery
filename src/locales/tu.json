@@ -113,7 +113,7 @@
         "l3": "[kolay alış arzu ederseniz Simpleswap deneyebilirsiniz](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "İlk başta yüklemeniz gerekli @.md:faq.a.2.l1, <b>backup your seed</b>. Daha sonra cüzdanınıza aracılığıyla yükleme yapınız. @.md:faq.a.1.l2  özelliği. Bakiyenizden sonra @.md:faq.a.3.l1, Koleksiyon yarat. Koleksiyon yaratılana kadar bekleyiniz, daha sonra gidiniz @.md:faq.a.7.l1 and Mint your very first token! If you had issues, we are working on our UX-flow. KodaDot has around month old code and there is still room to improve, bear with us, we are just team of two. Happy Minting 😌",
+        "m": "İlk başta yüklemeniz gerekli @.md:faq.a.2.l1, <b>backup your seed</b>. Daha sonra cüzdanınıza aracılığıyla yükleme yapınız. @.md:faq.a.1.l2  özelliği. Bakiyenizden sonra @.md:faq.a.3.l1, Koleksiyon yarat. Koleksiyon yaratılana kadar bekleyiniz, daha sonra gidiniz @.md:faq.a.7.l1 and Mint your very first token! If you had issues, we are working on our UX-flow. ForkDot has around month old code and there is still room to improve, bear with us, we are just team of two. Happy Minting 😌",
         "l1": "[Create Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "Şu an için zincir mantığımız olmamakla beraber kısa zamanda harika bir uygulamayla geliyoruz. @.md:faq.a.14.l1",
-        "l1": "[Bizimle kalıp, takip etmeye devam edin @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Bizimle kalıp, takip etmeye devam edin @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "Koleksiyon görüntüsü uyguluyoruz, seri koleksiyon görüntüsü. @.md:faq.a.14.l1"

@@ -113,7 +113,7 @@
         "l3": "[un simple intercambio, usa SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "En primer lugar, hay que instalar @.md:faq.a.2.l1, <b>guarda tus palabras secretas</b>. A continuación, recargue la dirección de su billetera a través de nuestra opción @.md:faq.a.1.l2 feature. Cuando tengas fondos, vete a @.md:faq.a.3.l1, crear Colección. Espera a que la Colección esté añadida, entonces vete a @.md:faq.a.7.l1 y ¡añade tu primer token! Si has tenido problemas, estamos trabajando en nuestro flujo UX. KodaDot tiene un código de alrededor de un mes de antigüedad y todavía se puede mejorar, tengan paciencia con nosotros, sólo somos un equipo de dos personas. Feliz Uso 😌",
+        "m": "En primer lugar, hay que instalar @.md:faq.a.2.l1, <b>guarda tus palabras secretas</b>. A continuación, recargue la dirección de su billetera a través de nuestra opción @.md:faq.a.1.l2 feature. Cuando tengas fondos, vete a @.md:faq.a.3.l1, crear Colección. Espera a que la Colección esté añadida, entonces vete a @.md:faq.a.7.l1 y ¡añade tu primer token! Si has tenido problemas, estamos trabajando en nuestro flujo UX. ForkDot tiene un código de alrededor de un mes de antigüedad y todavía se puede mejorar, tengan paciencia con nosotros, sólo somos un equipo de dos personas. Feliz Uso 😌",
         "l1": "[Crear Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "En este momento no tenemos, pero planeamos implementar algo grande pronto. @.md:faq.a.14.l1",
-        "l1": "[Estate atento síguenos en @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Estate atento síguenos en @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "Estamos implementando la vista de colección, conjuntos de vista de colección. @.md:faq.a.14.l1"

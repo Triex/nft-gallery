@@ -113,7 +113,7 @@
         "l3": "[cercando un’operazione di trading semplice, prova SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "Prima di tutto, devi installare @.md:faq.a.2.l1, <b>fare il backup del tuo seed</b>. Poi ricarichi il tuo indirizzo del portafoglio attraverso la nostra @.md:faq.a.1.l2 Una volta che hai i fondi necessari, vai su @.md:faq.a.3.l1, crea la collezione. Aspetta che la Collezione sia coniata, poi vai su @.md:faq.a.7.l1 e Conia il tuo primo token! Se hai avuto problemi, stiamo lavorando sul flusso della nostra UX. Abbiamo iniziato a scrivere il codice di KodaDot da circa un mese e c'è ancora spazio per migliorare, abbiate pazienza con noi, siamo solo un team di due persone. Felice Coniazione 😌",
+        "m": "Prima di tutto, devi installare @.md:faq.a.2.l1, <b>fare il backup del tuo seed</b>. Poi ricarichi il tuo indirizzo del portafoglio attraverso la nostra @.md:faq.a.1.l2 Una volta che hai i fondi necessari, vai su @.md:faq.a.3.l1, crea la collezione. Aspetta che la Collezione sia coniata, poi vai su @.md:faq.a.7.l1 e Conia il tuo primo token! Se hai avuto problemi, stiamo lavorando sul flusso della nostra UX. Abbiamo iniziato a scrivere il codice di ForkDot da circa un mese e c'è ancora spazio per migliorare, abbiate pazienza con noi, siamo solo un team di due persone. Felice Coniazione 😌",
         "l1": "[Crea Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "In questo momento, non abbiamo definito una sequenza logica, ma abbiamo intenzione di implementare qualcosa di grande, presto. @.md:faq.a.14.l1",
-        "l1": "[Rimani con noi e seguici @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Rimani con noi e seguici @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "Stiamo implementando la schermata delle collezioni, e anche la schermata degli insiemi delle collezioni. @.md:faq.a.14.l1"

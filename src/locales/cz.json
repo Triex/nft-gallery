@@ -113,7 +113,7 @@
         "l3": "[chcete pouze jednoduchý převod, zkuste SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "Zaprvé, musíte si nainstalovat @.md:faq.a.2.l1, <b>zálohovat svůj seed</b>. Potom nabijete svou peněženku skrze náš @.md:faq.a.1.l2 Když už máte prostředky, přejděte na @.md:faq.a.3.l1, vytvořte svůj úplně první token! Pokud máte problém, pracujeme na vylepšení uživatelské zkušenosti. KodaDot má pouze mesíc starý kód a je zde mnoho místa na vylepšení, měte strpení, jsme pouze 2 členný team. Úspěšné vytváření 😌",
+        "m": "Zaprvé, musíte si nainstalovat @.md:faq.a.2.l1, <b>zálohovat svůj seed</b>. Potom nabijete svou peněženku skrze náš @.md:faq.a.1.l2 Když už máte prostředky, přejděte na @.md:faq.a.3.l1, vytvořte svůj úplně první token! Pokud máte problém, pracujeme na vylepšení uživatelské zkušenosti. ForkDot má pouze mesíc starý kód a je zde mnoho místa na vylepšení, měte strpení, jsme pouze 2 členný team. Úspěšné vytváření 😌",
         "l1": "[Create Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -139,7 +139,7 @@
       },
       "14": {
         "m": "Prozatím nemáme žádnou chain logic, ale brzy plánujeme implementovat něco skvělého. @.md:faq.a.14.l1",
-        "l1": "[Zůstaňte s námi a sledujte nás @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Zůstaňte s námi a sledujte nás @ForkDot!](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "Právě implementujeme pohled na kolekci, soubory pohledů na kolekci. @.md:faq.a.14.l1"

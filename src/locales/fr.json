@@ -112,7 +112,7 @@
         "l3": "[recherchez un échange simple, essayez SimpleSwap](@.common:links.simpleswap_exchange.href)."
       },
       "7": {
-        "m": "Tout d'abord, vous devez installer l'@.md:faq.a.2.l1, <b>sauvegardez votre graine</b>. Ensuite, vous rechargez l'adresse de votre portefeuille grace à notre fonction @.md:faq.a.1.l2 Une fois que vous avez les fonds, allez à @.md:faq.a.3.l1, créer Collection. Attendez que la collection soit frappée, puis allez à @.md:faq.a.7.l1 and Mint votre tout premier jeton ! Si vous avez eu des problèmes, nous travaillons sur notre flux d'UX. Le code de KodaDot a environ un mois d'âge et il y a encore des possibilités d'amélioration, supportez-nous, nous ne sommes qu'une équipe de deux. Bonne frappe de la monnaie 😌",
+        "m": "Tout d'abord, vous devez installer l'@.md:faq.a.2.l1, <b>sauvegardez votre graine</b>. Ensuite, vous rechargez l'adresse de votre portefeuille grace à notre fonction @.md:faq.a.1.l2 Une fois que vous avez les fonds, allez à @.md:faq.a.3.l1, créer Collection. Attendez que la collection soit frappée, puis allez à @.md:faq.a.7.l1 and Mint votre tout premier jeton ! Si vous avez eu des problèmes, nous travaillons sur notre flux d'UX. Le code de ForkDot a environ un mois d'âge et il y a encore des possibilités d'amélioration, supportez-nous, nous ne sommes qu'une équipe de deux. Bonne frappe de la monnaie 😌",
         "l1": "[Créer Token](@.common:links.rmrk_create.href)"
       },
       "8": {
@@ -138,7 +138,7 @@
       },
       "14": {
         "m": "Pour l'instant, nous n'avons pas de logique de chaîne, mais nous prévoyons de mettre en œuvre quelque chose de grand, bientôt. @.md:faq.a.14.l1",
-        "l1": "[Restez avec nous et suivez-nous @KodaDot !](@.common:links.kodadot_social.twitter.href)"
+        "l1": "[Restez avec nous et suivez-nous @ForkDot !](@.common:links.kodadot_social.twitter.href)"
       },
       "15": {
         "m": "Nous sommes en train de mettre en place une vue de la collection, des ensembles de vues de la collection. @.md:faq.a.14.l1"
