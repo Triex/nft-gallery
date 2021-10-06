@@ -3,15 +3,15 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title is-1 homepage__title">
-          <span class="text__stroked">Koda</span>
+          <span class="text__stroked">Fork</span>
           <span>Dot</span>
         </h1>
         <h2 class="title is-1 is-flex is-flex-direction-column uppercase homepage__heading">
           <span>
-            Carbon neutral
+            Carbon neutraal
           </span>
           <span class="text__stroked">
-            Kusama native
+            $Fork native
           </span>
           <span>
             NFT plaftorm
@@ -106,7 +106,7 @@
               </p>
               <p>
                 <span>
-                  Struggling with KodaDot?
+                  Struggling with ForkDot?
                 </span>
                 <span>
                   Head over to our <a href="/rmrk/faq">FAQ page.</a>
@@ -134,6 +134,12 @@
         </div>
       </div>
     </div>
+                <span class="title is-6 homepage__subtitle uppercase text-semibold">
+            Forked from
+            <span class="text-bold text-primary">
+              ForkDot
+            </span>
+          </span>
   </section>
 </template>
 
@@ -151,10 +157,10 @@ const components = {
   metaInfo() {
     return {
       meta: [
-        { property: 'og:title', content: 'KodaDot - Kusama NFT Market explorer'},
+        { property: 'og:title', content: 'ForkDot - Kusama NFT Market explorer'},
         { property: 'og:image', content: 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
         { property: 'og:description', content: 'Low carbon NFT gallery on Kusama'},
-        { property: 'twitter:title', content: 'KodaDot - Kusama NFT Market Explorer' },
+        { property: 'twitter:title', content: 'ForkDot - Kusama NFT Market Explorer' },
         { property: 'twitter:description', content: 'Low carbon NFT gallery on Kusama'},
         { property: 'twitter:image', content: 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
       ]
@@ -174,7 +180,7 @@ export default class Landing extends Vue {
     ['🇷🇺 Russia', 'https://t.me/kodadotru'],
     ['🇪🇸 Spanish','https://t.me/joinchat/HkF3cxImJAJGoRH9'],
     ['🇹🇷 Türkiye', 'https://t.me/KodaDotTR'],
-    ['🌐 Global KodaDot Discord', 'https://discord.gg/u6ymnbz4PR'],
+    ['🌐 Global ForkDot Discord', 'https://discord.gg/u6ymnbz4PR'],
     ['🏗 Developers', 'https://discord.gg/KkctBVQ8kP'],
     // ['🇻🇳 Việt Nam', 'https://t.me/joinchat/GR0OiagewrkTzD4u'], seems not active
     ['Want to help translate?', 'https://github.com/kodadot/nft-gallery/tree/i18n/src/locales']

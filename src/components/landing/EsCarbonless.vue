@@ -10,16 +10,16 @@
                 Movimiento NFT Sin Emisiones de Carbono
               </h1>
               <h1 class="subtitle">
-                 KodaDot aportará a la huella de Carbono sin emitir Emisiones de Carbono, por defecto.
+                 ForkDot aportará a la huella de Carbono sin emitir Emisiones de Carbono, por defecto.
               </h1>
               <p>
-                Estamos tratando de establecer un movimiento en donde los artistas puedan compensar sus creaciones al mintearlas en KodaDot. Así de simple. Incluso estamos en una blockchain la cual es baja en emisiones de carbono <b><a href="https://Kusama.network">Kusama.network</a></b>, y planeamos lanzar nuestra propia infraestructura en una parachain llamada <b><a href="https://Metaprime.network">MetaPrime.network</a></b>, creemos que debemos de dar un paso adelante y ser más neutrales en carbono y luego contribuir a ser una galería de carbono negativo de manera que impulse la forestación global.
+                Estamos tratando de establecer un movimiento en donde los artistas puedan compensar sus creaciones al mintearlas en ForkDot. Así de simple. Incluso estamos en una blockchain la cual es baja en emisiones de carbono <b><a href="https://Kusama.network">Kusama.network</a></b>, y planeamos lanzar nuestra propia infraestructura en una parachain llamada <b><a href="https://Metaprime.network">MetaPrime.network</a></b>, creemos que debemos de dar un paso adelante y ser más neutrales en carbono y luego contribuir a ser una galería de carbono negativo de manera que impulse la forestación global.
               </p><br>
               <h1 class="title is-4">
-                Misión de Carbono Neutral de KodaDot
+                Misión de Carbono Neutral de ForkDot
               </h1>
               <p>
-                La misión de la galeria KodaDot es hacer fluir los recursos de los coleccionistas hacia la creación de arte digital con conciencia ambiental de manera que se pueda abordar la actual creciente crisis ambiental en la Tierra. Tenemos la intención de brindar una
+                La misión de la galeria ForkDot es hacer fluir los recursos de los coleccionistas hacia la creación de arte digital con conciencia ambiental de manera que se pueda abordar la actual creciente crisis ambiental en la Tierra. Tenemos la intención de brindar una
                 <b><a href="https://github.com/kodadot/nft-gallery/issues?q=is%3Aissue+label%3Acarbonless">Calculadora</a></b>
                 que analice las Emisiones de Carbono y ayudar a hacer forestaciones impulsando a que sean la nueva normalidad y de facil acceso.  Para poner en marcha este esfuerzo, nos hemos asociado con Offsetra que permite a los usuarios a apoyar <i>"proyectos de alta calidad a favor del clima mediante la compra de creditos de compensacion de carbono"</i>.
                 <br><br>
@@ -60,11 +60,11 @@
                 Nuestra prueba de trabajo
               </h1>
               <p>
-                Nosotros (KodaDot) nos sentimos inspirados para unirnos a este movimiento a nuestra manera, como el agregar la opción para los creadores de poder mintear un NFT sin dejar huella de carbono y comenzar a mostrar cuales NFTs son 🌱 Carbonless y cuales no lo son. Para completar nuestra reserva de Créditos de Carbono,
-                <b><a href="https://nft.kodadot.xyz/rmrk/detail/7369221-0E76E3AC15B4C1FA1E-VCU-KODADOT_CARBON_CREDITS-0000000000000001">ya hemos comprado los créditos de carbono de KodaDot </a></b> yplaneamos automatizarlos de manera más sostenible en un futuro.<br>
-                <b>Puede leer más en la página del perfil de <a href="https://offsetra.com/profile/kodadot">KodaDot en Offsetra</a></b><br><br>
-                Una vez que hayas minteado <b>un NFT Carbonless en KodaDot,
-                <u><a href="https://t.me/joinchat/aE-i3mgMAo9lMTU0">estas invitado a unirte a nuestro canal oficial en Telegram</a> y <a href="https://discord.gg/u6ymnbz4PR">al Discord Oficial de KodaDot.</a></u></b>
+                Nosotros (ForkDot) nos sentimos inspirados para unirnos a este movimiento a nuestra manera, como el agregar la opción para los creadores de poder mintear un NFT sin dejar huella de carbono y comenzar a mostrar cuales NFTs son 🌱 Carbonless y cuales no lo son. Para completar nuestra reserva de Créditos de Carbono,
+                <b><a href="https://nft.kodadot.xyz/rmrk/detail/7369221-0E76E3AC15B4C1FA1E-VCU-KODADOT_CARBON_CREDITS-0000000000000001">ya hemos comprado los créditos de carbono de ForkDot </a></b> yplaneamos automatizarlos de manera más sostenible en un futuro.<br>
+                <b>Puede leer más en la página del perfil de <a href="https://offsetra.com/profile/kodadot">ForkDot en Offsetra</a></b><br><br>
+                Una vez que hayas minteado <b>un NFT Carbonless en ForkDot,
+                <u><a href="https://t.me/joinchat/aE-i3mgMAo9lMTU0">estas invitado a unirte a nuestro canal oficial en Telegram</a> y <a href="https://discord.gg/u6ymnbz4PR">al Discord Oficial de ForkDot.</a></u></b>
               </p><br>
               <h1 class="title is-4">
                 Lista de Lectura

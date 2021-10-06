@@ -163,7 +163,7 @@ const components = {
       meta: [
         {
           property: 'og:title',
-          content: 'KodaDot | Low fees and low carbon minting'
+          content: 'ForkDot | Low fees and low carbon minting'
         },
         { property: 'og:url', content: 'https://nft.kodadot.xyz' },
         {

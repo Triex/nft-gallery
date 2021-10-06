@@ -14,7 +14,7 @@
         tag="a"
         :href="`https://ramp.network/buy/?swapAsset=KSM`
         + `&userAddress=${accountId}`
-        + `&hostAppName=KodaDot`
+        + `&hostAppName=ForkDot`
         + `&hostLogoUrl=https://nft.kodadot.xyz/kodadot_logo_v1_transparent_400px.png`
         + `&finalUrl=https://nft.kodadot.xyz`
         + `hostApiKey=a99bfvomhhbvzy6thaycxbawz7d3pssuz2a8hsrc`"

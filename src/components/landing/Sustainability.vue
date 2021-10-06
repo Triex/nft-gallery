@@ -7,7 +7,7 @@
             <div class="column is-6 is-offset-3">
               <h1 class="title is-1">
                 <b-icon icon="leaf"></b-icon>
-                Sustainability of KodaDot
+                Sustainability of ForkDot
               </h1>
               <h1 class="subtitle">
                 micro-dao-bedrock-boostrap experiment
@@ -15,7 +15,7 @@
               <p>
                 As part of our micro-dao-bedrock-boostrap experiment,
                 we would like to keep our efforts sustainable <b>in the long-run
-                and create trust from creators culture</b> and economy for KodaDot
+                and create trust from creators culture</b> and economy for ForkDot
                 that we will won't dissapear tomorrow and keep running as long
                 we can cover our efforts to keep it online and working.
               </p><br>
@@ -52,7 +52,7 @@
               </p><br>
               <p>
                 As we would like to establish our accrual vector for sustainibility fund
-                and introduce <b>small fee through minting</b> through KodaDot,
+                and introduce <b>small fee through minting</b> through ForkDot,
                 we will be adding button where you still can voluntary opt-out
                 and mint without supporting us at all.
               </p><br>
@@ -60,14 +60,14 @@
                 To <b>give community value back</b>, we are about to establish
                 <b><a href="https://hackmd.io/cy3jpAhvR-S32SUiMqEabg?edit">artists-support-program</a></b>
                 which will flow back to artists. We are trying to create self-reinforcment
-                accrual cycle, where you as creator supporting KodaDot gallery will flow back
+                accrual cycle, where you as creator supporting ForkDot gallery will flow back
                 and support new artists, thus creating network effects for early adopters and
                 next wave of adopters and so on, which will later could be self-propelled at some point
                 if we manage to crack on the right tokenomics.
                 We just need play bit more with right flow curves. It's experiment.
               </p><br>
               <p>
-                Current holders of multisig are founders of KodaDot --
+                Current holders of multisig are founders of ForkDot --
                 <a href="https://twitter.com/yangwao">yangwao</a> &
                 <a href="https://twitter.com/vikiival">vikiival</a>
                 and later it will expand as we will create trust with
@@ -97,15 +97,15 @@ import { Component, Vue } from 'vue-property-decorator'
 @Component<Sustainibility>({
   metaInfo() {
     return {
-      title: 'KodaDot Kusama NFT explorer',
+      title: 'ForkDot Kusama NFT explorer',
       titleTemplate: '%s | Low Carbon NFTs',
       meta: [
-        { name: 'description', content: 'KodaDot: Sustainibility mission' },
-        { property: 'og:title', content: 'KodaDot Kusama NFT explorer'},
+        { name: 'description', content: 'ForkDot: Sustainibility mission' },
+        { property: 'og:title', content: 'ForkDot Kusama NFT explorer'},
         { property: 'og:image', content: 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
-        { property: 'og:description', content: 'KodaDot: Sustainibility mission'},
+        { property: 'og:description', content: 'ForkDot: Sustainibility mission'},
         { property: 'twitter:title', content: 'Low minting fees and carbonless NFTs'},
-        { property: 'twitter:description', content: 'KodaDot: Sustainibility mission'},
+        { property: 'twitter:description', content: 'ForkDot: Sustainibility mission'},
         { property: 'twitter:image', content: 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
       ]
     }

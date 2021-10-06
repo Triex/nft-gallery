@@ -17,7 +17,7 @@ import { Component, Vue } from 'vue-property-decorator'
       meta: [
         {
           property: 'og:title',
-          content: 'KodaDot | Kusama NFT Market explorer'
+          content: 'ForkDot | Kusama NFT Market explorer'
         },
         { property: 'og:url', content: 'https://nft.kodadot.xyz' },
         {
