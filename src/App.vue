@@ -29,14 +29,14 @@ import { showNotification } from './utils/notification'
 @Component<Dashboard>({
   metaInfo() {
     return {
-      title: 'KodaDot - Kusama NFT Market Explorer',
+      title: 'ForkDot - Kusama NFT Market Explorer',
       titleTemplate: '%s | Low Carbon NFTs',
       meta: [
         { property: 'og:type', content: 'website' },
         // { property: 'og:url', content: 'https://nft.kodadot.xyz'},
         { property: 'og:locale', content: 'en_US' },
         { property: 'twitter:card', content: 'summary_large_image' },
-        { property: 'twitter:site', content: '@KodaDot' }
+        { property: 'twitter:site', content: '@ForkDot' }
       ]
     }
   },

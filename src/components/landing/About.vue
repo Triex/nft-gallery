@@ -41,7 +41,7 @@
                   </span>
                 </h2>
                 <p class="max-w-600">
-                  As part of our micro-dao-bedrock-boostrap experiment, we would like to keep our efforts sustainable in the long-run and create trust from creators culture and economy for KodaDot that we will won’t dissapear tomorrow and keep running as long we can cover our efforts to keep it online and working.
+                  As part of our micro-dao-bedrock-boostrap experiment, we would like to keep our efforts sustainable in the long-run and create trust from creators culture and economy for ForkDot that we will won’t dissapear tomorrow and keep running as long we can cover our efforts to keep it online and working.
                 </p>
                 <b-button
                   type="is-primary"
@@ -88,7 +88,7 @@
                   </span>
                 </h2>
                 <p class="max-w-600">
-                  Client-first, Onchain-first, Serverless-first, these words can sound like magic to you, but they exactly represent the actual technical state of KodaDot the NFT gallery.
+                  Client-first, Onchain-first, Serverless-first, these words can sound like magic to you, but they exactly represent the actual technical state of ForkDot the NFT gallery.
                 </p>
                 <b-button
                   type="is-primary"

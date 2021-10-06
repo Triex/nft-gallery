@@ -74,7 +74,7 @@
           </li>
           <li class="icons__list-item">
             <a
-              href="https://twitter.com/KodaDot"
+              href="https://twitter.com/ForkDot"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -89,7 +89,7 @@
 
           <li class="icons__list-item">
             <a
-              href="https://www.reddit.com/r/KodaDot/"
+              href="https://www.reddit.com/r/ForkDot/"
               target="_blank"
               rel="noopener noreferrer"
             >
